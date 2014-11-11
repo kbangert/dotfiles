@@ -26,6 +26,7 @@ Plugin 'justinmk/vim-sneak'
 Plugin 'ervandew/supertab'
 Plugin 'jeetsukumaran/vim-buffergator'
 Plugin 'christoomey/vim-tmux-navigator'
+Plugin 'tpope/vim-endwise'
 
 " Ruby
 Plugin 'vim-ruby/vim-ruby'
